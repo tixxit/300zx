@@ -2,9 +2,10 @@
 layout: post
 title:  "Fixing the shifter"
 date:   2017-04-06
+parts:
+  - cost: 0.65
+    descr: bolt, washers, and nut
 ---
-
-$0.65 bolt + nut + locking washers
 
 So, I had a feeling this was going to end up being a stupid fix but I didn't
 think it'd be quite this stupid. One of the 2 bolts - the bottom one - holding
