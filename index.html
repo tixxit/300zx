@@ -8,7 +8,7 @@ title: Home
   {% if post.parts %}
     {% for part in post.parts %}
       {% assign cost = cost | plus: part.cost %}
-    {% enfor %}
+    {% endfor %}
   {% endif %}
 {% endfor %}
 <p>${{ cost }}</p>
