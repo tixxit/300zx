@@ -1,6 +1,7 @@
 title:            300zx Project Car
 tagline:          'Build log for my 300zx'
 description:      'Will I give up? Will the z32 crush me in its cramped engine bay? Tune in to find out!'
+baseurl:          /300zx
 theme:            jekyll-theme-minimal
 tixxit_username:  tixxit
 github_username:  tixxit
