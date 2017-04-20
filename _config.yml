@@ -5,3 +5,4 @@ theme:            jekyll-theme-minimal
 tixxit_username:  tixxit
 github_username:  tixxit
 markdown:         kramdown
+show_downloads:   false
