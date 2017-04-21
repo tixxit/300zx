@@ -15,7 +15,7 @@ title: Home
         {% endif %}
         <tr class="post">
           <td class="post-date">{{ post.date | date_to_string }}</span>
-          <td class="post-cost">${{ cost}}</td>
+          <td class="post-cost">${{ cost | round: 2 }}</td>
           <td class="post-title">
             <a href="{{site.baseurl}}{{ post.url }}">
               {{ post.title }}
