@@ -3,22 +3,19 @@ layout: default
 title: Home
 ---
 
-{% assign cost = 0 %}
-{% for post in site.posts %}
-  {% if post.parts %}
-    {% for part in post.parts %}
-      {% assign cost = cost | plus: part.cost %}
-    {% endfor %}
-  {% endif %}
-{% endfor %}
-<p>${{ cost }}</p>
-
 <div class="posts">
   <table>
     <tbody>
       {% for post in site.posts %}
+        {% assign cost = 0 %}
+        {% if post.parts %}
+          {% for part in post.parts %}
+            {% assign cost = cost | plus: part.cost %}
+          {% endfor %}
+        {% endif %}
         <tr class="post">
           <td class="post-date">{{ post.date | date_to_string }}</span>
+          <td class="post-cost">${{ cost}}</td>
           <td class="post-title">
             <a href="{{site.baseurl}}{{ post.url }}">
               {{ post.title }}
