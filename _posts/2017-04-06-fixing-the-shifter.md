@@ -3,7 +3,7 @@ layout: post
 title:  "Fixing the shifter"
 date:   2017-04-06
 parts:
-  - cost: 0.65
+  - cost: 1
     descr: bolt, washers, and nut
 ---
 
