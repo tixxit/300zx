@@ -7,6 +7,7 @@ title: Home
 <div class="posts">
   <table>
     <tbody>
+      {% assign total_cost = 0 %}
       {% for post in site.posts %}
         {% assign cost = 0 %}
         {% if post.parts %}
@@ -14,9 +15,10 @@ title: Home
             {% assign cost = cost | plus: part.cost %}
           {% endfor %}
         {% endif %}
+        {% assign total_cost = total_cost | plus: cost %}
         <tr class="post">
           <td class="post-date">{{ post.date | date_to_string }}</span>
-          <td class="post-cost">${{ cost | round: 2 }}</td>
+          <td class="post-cost">${{ cost }}</td>
           <td class="post-title">
             <a href="{{site.baseurl}}{{ post.url }}">
               {{ post.title }}
@@ -24,6 +26,11 @@ title: Home
           </td>
         </tr>
       {% endfor %}
+      <tr>
+        <td class="post-date"></td>
+        <td class="post-cost">${{ total_cost }}</td>
+        <td class="post-title">Total Cost</td>
+      </tr>
     </tbody>
   </table>
 </div>
