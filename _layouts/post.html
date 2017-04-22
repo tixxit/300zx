@@ -42,7 +42,7 @@
               {% for part in page.parts %}
                 <tr>
                   <td class="part-cost">${{ part.cost }}</td>
-                  <td class="part-description">${{ part.descr }}</td>
+                  <td class="part-description">{{ part.descr }}</td>
                 </tr>
               {% endfor %}
             {% endif %}
