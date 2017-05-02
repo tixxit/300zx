@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Compression test"
-date:   2017-04-19
+date:   2017-04-18
 parts:
   - cost: 160
     descr: new battery
