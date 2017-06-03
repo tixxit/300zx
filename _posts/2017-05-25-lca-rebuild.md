@@ -46,7 +46,7 @@ for free (with deposit). If you don't have access to these tools or the ability
 to borrow them for free, then it probably makes sense to just buy new
 arms. You'll also need a breaker bar to get the ball joints in and out.
 
-![balljoints are in]({{ site.baseurl }}assets/images/rebuilt_lca_balljoints.jpg)
+![balljoints are in]({{ site.baseurl }}/assets/images/rebuilt_lca_balljoints.jpg)
 
 I opted to burn the bushings out. For those who are thinking about doing this,
 I'd highly recommend this method if you also plan on painting the arms. It took
@@ -77,7 +77,7 @@ the ball joint in, and then masking the ball joint and painting the top.
 Otherwise the ball joint press is just going to fuck up your lovely paint job,
 like it did mine.
 
-![balljoints are in]({{ site.baseurl }}assets/images/rebuilt_lca_painted.jpg)
+![balljoints are in]({{ site.baseurl }}/assets/images/rebuilt_lca_painted.jpg)
 
 When pushing the inner metal sleeve into the polyurethane bushing, the bushings
 will start pop back out. I got around this by throwing a couple zip ties around
