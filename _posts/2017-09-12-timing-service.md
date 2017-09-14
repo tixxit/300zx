@@ -13,6 +13,14 @@ parts:
     descr: 6x NGK PFR6G-11 spark plugs
   - cost: 58
     descr: CZP silicone idle air hose kit
+  - cost: 35
+    descr: Z1 silicone brake booster hose set
+  - cost: 12
+    descr: balance tube O-ring set
+  - cost: 44
+    descr: 2x coolant bypass tube to head connector
+  - cost: 15
+    descr: coolant bypass tube clamps
   - cost: 297
     descr: UR crank pulley + OEM accessory belts
 ---

@@ -7,6 +7,8 @@ parts:
     descr: PTU sub-harness
   - cost: 30
     descr: Z1 PTU relocation kit
+  - cost: 12
+    descr: 4x nose panel grommet
 ---
 
 I relocated the PTU to the nose while doing the timing service.
@@ -21,3 +23,6 @@ engine/heat should help avoid future issues with the PTU. Check out my lovely
 wiring job here:
 
 ![PTU rewiring]({{ site.baseurl }}/assets/images/ptu_relocation_wiring.jpg)
+
+While taking the nose out, the 2 remaining rubber grommets on the bottom just
+fell apart, so I ended up buying a new set of those too.
