@@ -32,6 +32,8 @@ car a bit. However, 300zx's are really finicky about drops and even small drops
 can easily push the alignment out of spec. So upgrading the suspension is
 really an all or nothing proposal.
 
+![Z1 and SPL adjustable arms]({{ site.baseurl }}/assets/images/adjustable_arms.jpg)
+
 Some of the steering stuff was covered in another post, but here is the total
 list of suspension parts installed/replaced on the car over the last couple of
 months:
@@ -54,3 +56,13 @@ upgrades for the rear. The plan is to, at some point in the future, drop the
 rear subframe and replace all subframe, diff, and rear knuckle bushings in one
 shot, preferably with rubber. But that is a lot of work and the bushings in the
 rear knuckle and LCA, at least, are in decent enough shape.
+
+![coilovers]({{ site.baseurl }}/assets/images/flex_z_coilovers.jpg)
+
+I opted to cheap out on the coils a bit. Mostly, the Tein Flex Z's were getting
+lots of praise for punching well above their weight for their price. I also
+want to keep the car somewhat comfortable for now and avoid coilovers with
+pillowballs. There may be a point in the future where I shell out the big bucks
+for KW, but it isn't a priority yet. Also, the Flex Zs are quite nice! On the
+softer settings they're a bit bouncy, but feel stock-ish comfort wise. Around
+6-8 clicks from full stiff is where they feel really great to me.
